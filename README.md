@@ -1,1 +1,1 @@
-/
+![Screenshot 2024-01-31 at 23-58-02 Frontend Mentor Product preview card component](https://github.com/tango-one/product-preview-card-component-main/assets/36410725/4cb8cc0d-4516-4d8c-87b5-9b1fea911ad5)
